@@ -1,7 +1,7 @@
 (function($) {
 
   $.fn.focusEnd = function(){
-    element = this[0];
+    var element = this[0];
 
     if (this.is('textarea')) { 
         element.focus();
@@ -21,7 +21,7 @@
   };
 
   $.fn.focusStart = function(){
-    element = this[0];
+    var element = this[0];
 
     if (this.is('textarea')) { 
         element.focus(); 
