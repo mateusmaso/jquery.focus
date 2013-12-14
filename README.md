@@ -1,6 +1,6 @@
 jquery.focus
 ============
 ```javascript
-$('textarea, input, [contenteditable]').focusStart();
-$('textarea, input, [contenteditable]').focusEnd();
+$("textarea, input[type='text'], [contenteditable]").focusStart();
+$("textarea, input[type='text'], [contenteditable]").focusEnd();
 ```
