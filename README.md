@@ -5,7 +5,7 @@ This library is an extension for jQuery which allows focusing on typing elements
 
 ## Features
 
-* Supports textarea, input and contenteditable.
+* Textarea, input and contenteditable support.
 
 ## Dependencies
 
