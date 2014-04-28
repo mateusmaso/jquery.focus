@@ -1,7 +1,7 @@
 jquery.focus
 ============
 
-This library is an extension for jQuery which allows to focus typing elements on the beginning and ending.
+This library is an extension for jQuery which allows focusing on typing elements on the beginning and ending.
 
 ## Features
 
