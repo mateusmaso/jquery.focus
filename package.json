@@ -19,7 +19,7 @@
   }],
   "repository": {
     "type" : "git",
-    "url": "http://github.com/mateusmaso/jquery.blur"
+    "url": "http://github.com/mateusmaso/jquery.focus"
   },
   "dependencies": {
     "jquery": "~2.1.0"
@@ -27,5 +27,5 @@
   "scripts": {
     "test": "grunt mocha"
   },
-  "main": "dist/jquery.blur.js"
+  "main": "dist/jquery.focus.js"
 }

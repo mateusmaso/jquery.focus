@@ -5,7 +5,7 @@
 // Copyright (c) 2012-2014 Mateus Maso
 // Distributed under MIT license
 //
-// http://github.com/mateusmaso/jquery.blur
+// http://github.com/mateusmaso/jquery.focus
 
 (function(root, factory) {
 
