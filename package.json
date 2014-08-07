@@ -1,7 +1,7 @@
 {
   "name": "jquery.focus",
   "description": "jQuery plugin for focusing the beginning or ending of textarea, input and contenteditable",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mateusmaso",
   "keywords": ["jquery", "javascript", "focus"],
   "devDependencies": {
@@ -15,11 +15,11 @@
   },
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/mateusmaso/jquery.html/blob/master/LICENSE.txt"
+    "url": "https://github.com/mateusmaso/jquery.focus/blob/master/LICENSE.txt"
   }],
   "repository": {
     "type" : "git",
-    "url": "http://github.com/mateusmaso/jquery.html"
+    "url": "http://github.com/mateusmaso/jquery.blur"
   },
   "dependencies": {
     "jquery": "~2.1.0"
@@ -27,5 +27,5 @@
   "scripts": {
     "test": "grunt mocha"
   },
-  "main": "dist/jquery.html.js"
+  "main": "dist/jquery.blur.js"
 }

@@ -1,11 +1,11 @@
 // jquery.focus
 // ------------
-// v0.1.0
+// v0.1.1
 //
 // Copyright (c) 2012-2014 Mateus Maso
 // Distributed under MIT license
 //
-// http://github.com/mateusmaso/jquery.html
+// http://github.com/mateusmaso/jquery.blur
 
 (function(root, factory) {
 
