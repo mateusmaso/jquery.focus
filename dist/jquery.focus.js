@@ -1,6 +1,6 @@
 // jquery.focus
 // ------------
-// v0.1.1
+// v0.1.2
 //
 // Copyright (c) 2012-2014 Mateus Maso
 // Distributed under MIT license

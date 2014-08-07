@@ -1,7 +1,7 @@
 {
   "name": "jquery.focus",
   "description": "jQuery plugin for focusing the beginning or ending of textarea, input and contenteditable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "mateusmaso",
   "keywords": ["jquery", "javascript", "focus"],
   "devDependencies": {
