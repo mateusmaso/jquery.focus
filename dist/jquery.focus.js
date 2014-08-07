@@ -1,4 +1,23 @@
-(function($) {
+// jquery.focus
+// ------------
+// v0.1.0
+//
+// Copyright (c) 2012-2014 Mateus Maso
+// Distributed under MIT license
+//
+// http://github.com/mateusmaso/jquery.html
+
+(function(root, factory) {
+
+  if (typeof exports !== 'undefined') {
+    if (typeof module !== 'undefined' && module.exports)
+      module.exports = factory(global.$);
+    exports = factory(global.$);
+  } else {
+    factory(root.$);
+  }
+
+}(this, function($) {
 
   $.fn.focusBegin = function() {
     var element = this[0];
@@ -40,4 +59,4 @@
     }
   };
 
-})(jQuery);
+}));
