@@ -1,7 +1,7 @@
 jquery.focus [![Build Status](https://travis-ci.org/mateusmaso/jquery.focus.svg?branch=master)](https://travis-ci.org/mateusmaso/jquery.focus)
 ============
 
-This library is an extension for jQuery which allows focusing on typing elements on the beginning and ending.
+This library is an extension for jQuery which allows focusing on editable elements either at the beginning or ending.
 
 ## Features
 
