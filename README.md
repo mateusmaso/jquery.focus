@@ -5,9 +5,9 @@ This library is an extension for jQuery which allows focusing on typing elements
 
 ## Features
 
-* ```focusEnd``` method.
-* ```focusBegin``` method.
 * Textarea, input and contenteditable support.
+* Put cursor at the ending using ```focusEnd``` method.
+* Put cursor at the beginning using ```focusBegin``` method.
 
 ## Dependencies
 
