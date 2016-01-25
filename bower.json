@@ -1,0 +1,29 @@
+{
+  "name": "jquery.focus",
+  "version": "0.1.3",
+  "homepage": "https://github.com/mateusmaso/jquery.focus",
+  "authors": [
+    "mateusmaso"
+  ],
+  "description": "jQuery plugin for focusing textarea, input and contenteditable",
+  "main": "dist/jquery.focus.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "javascript",
+    "focus"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
