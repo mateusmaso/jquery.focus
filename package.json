@@ -1,7 +1,7 @@
 {
   "name": "jquery.focus",
   "description": "jQuery plugin for focusing textarea, input and contenteditable",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "mateusmaso",
   "keywords": ["jquery", "javascript", "focus"],
   "devDependencies": {
