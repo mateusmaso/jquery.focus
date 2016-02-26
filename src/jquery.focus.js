@@ -10,16 +10,17 @@
 
 }(this, function($) {
 
-  $.fn.focusBegin = function() {
+  $.fn.focusBegin = function(skip) {
     return this.each(function() {
-      var element = $(this)[0];
+      var element = $(this)[0],
+          offset = skip || 0;
 
       if ($(this).is('textarea')) {
         element.focus();
-        element.setSelectionRange(0, 0);
+        element.setSelectionRange(offset, offset);
       } else if ($(this).is('input')) {
-        element.selectionStart = 0;
-        element.selectionEnd = 0;
+        element.selectionStart = offset;
+        element.selectionEnd = offset;
         element.focus()
       } else {
         var range = document.createRange();
